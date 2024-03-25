@@ -1,0 +1,18 @@
+{
+    
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx-swt.jar",
+        "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx.base.jar",
+        "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx.controls.jar",
+        "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx.fxml.jar",
+        "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx.graphics.jar",
+        "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx.media.jar",
+        "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx.swing.jar",
+        "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx.web.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src"
+    ]
+   
+}

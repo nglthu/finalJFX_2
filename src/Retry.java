@@ -18,8 +18,9 @@ public class Retry {
         } catch (Exception e) {
             System.out.println(e);
         } finally {
+            fileIsOpen = false;
             System.out.println("done");
-            System.out.println("File status"+fileIsOpen);
+            System.out.println("File status" + fileIsOpen);
         }
 
     }

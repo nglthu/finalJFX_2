@@ -1,5 +1,8 @@
 {
-    
+    "java.configuration.runtimes":[
+        
+
+    ],
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "/Users/lethunguyen/gui/javafx-sdk-22/lib/javafx-swt.jar",

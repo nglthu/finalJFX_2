@@ -1,13 +1,17 @@
+
 public class MyRuntimeException {
-    static void g(){
+
+    static void g() {
         throw new RuntimeException("from g() testing:");
     }
 
-    static void f(){
+    /* static void f(){
         g();
-    }
+    } */
     public static void main(String[] args) {
-        f();
+       MyExceptionRetry f = new MyExceptionRetry();
+       f.f();
+       
     }
-    
+
 }
